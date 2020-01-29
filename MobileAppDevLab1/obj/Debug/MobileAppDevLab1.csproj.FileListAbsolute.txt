@@ -1,0 +1,9 @@
+C:\Users\Dan\AppData\Local\Temporary Projects\MobileAppDevLab1\bin\Debug\MobileAppDevLab1.exe.config
+C:\Users\Dan\AppData\Local\Temporary Projects\MobileAppDevLab1\bin\Debug\MobileAppDevLab1.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\MobileAppDevLab1\bin\Debug\MobileAppDevLab1.pdb
+C:\Users\Dan\AppData\Local\Temporary Projects\MobileAppDevLab1\obj\Debug\MobileAppDevLab1.csprojResolveAssemblyReference.cache
+C:\Users\Dan\AppData\Local\Temporary Projects\MobileAppDevLab1\obj\Debug\MobileAppDevLab1.exe
+C:\Users\Dan\AppData\Local\Temporary Projects\MobileAppDevLab1\obj\Debug\MobileAppDevLab1.pdb
+C:\Users\Dan\Desktop\MobileAppDevLab1\MobileAppDevLab1\bin\Debug\MobileAppDevLab1.exe.config
+C:\Users\Dan\Desktop\MobileAppDevLab1\MobileAppDevLab1\obj\Debug\MobileAppDevLab1.exe
+C:\Users\Dan\Desktop\MobileAppDevLab1\MobileAppDevLab1\obj\Debug\MobileAppDevLab1.pdb
